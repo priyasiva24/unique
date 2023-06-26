@@ -7,7 +7,7 @@ on:
     - "*"
 
 env:
-  DOCKER_IMAGE: "accuknox/Shanmuga:imagetest"
+  DOCKER_IMAGE: "accuknox/shanmuga:imagetest"
   DOCKERFILE_CONTEXT: "Dockerfile"
   
 
