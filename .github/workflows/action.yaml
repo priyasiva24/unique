@@ -7,7 +7,7 @@ on:
     - "*"
 
 env:
-  DOCKER_IMAGE: "accuknox/bootstrap:version-tag1"
+  DOCKER_IMAGE: "accuknox/Shanmuga:imagetest"
   DOCKERFILE_CONTEXT: "Dockerfile"
   
 // Change the following fields accordingly
