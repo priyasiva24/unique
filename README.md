@@ -1,6 +1,3 @@
 # unique
 CI/CD testing
-shanmugapriy
-hbh.ok
-,jbkj
-changed
+guru test
